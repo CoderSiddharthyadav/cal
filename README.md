@@ -1,3 +1,5 @@
+[😍😍CLICK ME FOR ONLINE CALCULATOR😘😘](https://codersiddharthyadav.github.io/scientific-calculator/)
+
 # scientific calculator
 <h1>Click this link for live👇👇🙋🤔</h1>
 
