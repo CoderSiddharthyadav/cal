@@ -1,3 +1,5 @@
+![scentific](https://user-images.githubusercontent.com/80401236/113486575-724b9e00-9468-11eb-881e-19ae16050d3f.gif)
+
 [😍😍CLICK ME FOR ONLINE CALCULATOR😘😘](https://codersiddharthyadav.github.io/scientific-calculator/)
 
 # scientific calculator
